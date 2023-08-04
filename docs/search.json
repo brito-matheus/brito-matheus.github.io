@@ -9,8 +9,43 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Home",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I’m Matheus Brito currently a phd student at São Paulo School of Economics.\n\nInterests:\n\nBehavior Finance:\nEmpirical Finance\nMacroeconomics\n\n\nContacts: matheuscarrijobrito@outlook.com/matheus.brito@fgv.edu.br"
+  },
+  {
+    "objectID": "about.html#website",
+    "href": "about.html#website",
+    "title": "Home",
+    "section": "",
+    "text": "I’m Matheus Brito currently a phd student at São Paulo School of Economics.\n\nInterests:\n\nBehavior Finance:\nEmpirical Finance\nMacroeconomics\n\n\nContacts: matheuscarrijobrito@outlook.com/matheus.brito@fgv.edu.br"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Stochastic Calculus\nFinancial Econometrics\nEmpirical Macroeconometrics"
+  },
+  {
+    "objectID": "teaching.html#ta-positions",
+    "href": "teaching.html#ta-positions",
+    "title": "Teaching",
+    "section": "",
+    "text": "Stochastic Calculus\nFinancial Econometrics\nEmpirical Macroeconometrics"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Reseach",
+    "section": "",
+    "text": "Lucky investors trade more : evidence from a large and salient exogenous price shock\nThis paper examines the impact of luck on retail investors' trading activity. We document an increase in trading activity and a worsening in the performance of lucky investors. We considered lucky investors who sold stock before an unexpected environmental disaster that caused a significant devaluation of this stock. After the event, lucky investors present 11% of portfolio turnover, 46% of numbers of trade, and 35% of the number of days with trade higher than similar investors. Also, the portfolio return risk-unadjusted is 6% and adjusted is 4% lower for lucky investors. Placebo tests indicate that our results are due to this specific stock by investors that sold this stock, and no effect is found using past outcomes."
+  },
+  {
+    "objectID": "research.html#research",
+    "href": "research.html#research",
+    "title": "Reseach",
+    "section": "",
+    "text": "Lucky investors trade more : evidence from a large and salient exogenous price shock\nThis paper examines the impact of luck on retail investors' trading activity. We document an increase in trading activity and a worsening in the performance of lucky investors. We considered lucky investors who sold stock before an unexpected environmental disaster that caused a significant devaluation of this stock. After the event, lucky investors present 11% of portfolio turnover, 46% of numbers of trade, and 35% of the number of days with trade higher than similar investors. Also, the portfolio return risk-unadjusted is 6% and adjusted is 4% lower for lucky investors. Placebo tests indicate that our results are due to this specific stock by investors that sold this stock, and no effect is found using past outcomes."
   }
 ]

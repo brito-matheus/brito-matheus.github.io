@@ -9,10 +9,9 @@ website:
       - href: about.qmd
         text: Home
       - about.qmd
-      - reasearch.qmd
+      - research.qmd
       - teaching.qmd
       - blog_post.qmd
-      - index.qmd
 
 format:
   html:

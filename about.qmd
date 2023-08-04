@@ -1,9 +1,9 @@
 ---
-title: "Matheus Carrijo de Brito"
+title: "Home"
 image: img/foto_5.jpg
-about: marquee
-  image-height: 10em
-  image-width: 15em
+about: 
+  template: trestles
+  image-width: 10em
   links:
     - text: LinkedIn
     - href: https://www.linkedin.com/in/matheus-carrijo-de-brito-1287539b
@@ -13,7 +13,7 @@ about: marquee
 
 ## Website
 
-![](img/foto_5.jpg){style="float: left; margin-right: 70px;" fig-align="right" width="300"} I'm Matheus Brito currently a phd student at São Paulo School of Economics.
+I'm Matheus Brito currently a phd student at São Paulo School of Economics.
 
 -   **Interests:**
 
