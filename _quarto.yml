@@ -4,14 +4,21 @@ project:
   
 website:
   title: "Welcome!"
-  navbar:
-    left:
+  navbar: 
+    left: 
       - href: about.qmd
         text: Home
-      - research.qmd
-      - teaching.qmd
-      - blog_post.qmd
-
+      - href: research.qmd
+        text: Reseach
+      - href: teaching.qmd
+        text: Teaching
+      - href: blog_post.qmd
+        text: Blog Post
+    background: dark
+    foreground: light
+  search: false
+  
+  
 format:
   html:
     theme: cosmo

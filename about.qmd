@@ -5,10 +5,12 @@ about:
   template: trestles
   image-width: 10em
   links:
-    - text: LinkedIn
     - href: https://www.linkedin.com/in/matheus-carrijo-de-brito-1287539b
-    - text: Twitter
+      icon: github
+      text: LinkedIn
     - href: https://twitter.com/CarrijoBrito
+      icon: twitter
+      text: Twitter
 ---
 
 ## Website
