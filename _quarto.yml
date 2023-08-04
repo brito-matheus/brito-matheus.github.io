@@ -3,12 +3,11 @@ project:
   output-dir: docs 
   
 website:
-  title: "personal_website"
+  title: "Welcome!"
   navbar:
     left:
       - href: about.qmd
         text: Home
-      - about.qmd
       - research.qmd
       - teaching.qmd
       - blog_post.qmd
