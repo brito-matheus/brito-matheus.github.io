@@ -1,9 +1,26 @@
 ---
-title: "About"
+title: "Matheus Carrijo de Brito"
+image: img/foto_5.jpg
+about: marquee
+  image-height: 10em
+  image-width: 15em
+  links:
+    - text: LinkedIn
+    - href: https://www.linkedin.com/in/matheus-carrijo-de-brito-1287539b
+    - text: Twitter
+    - href: https://twitter.com/CarrijoBrito
 ---
 
-About this site
+## Website
 
-```{r}
-1 + 1
-```
+![](img/foto_5.jpg){style="float: left; margin-right: 70px;" fig-align="right" width="300"} I'm Matheus Brito currently a phd student at São Paulo School of Economics.
+
+-   **Interests:**
+
+    -   Behavior Finance:
+
+    -   Empirical Finance
+
+    -   Macroeconomics
+
+**Contacts:** matheuscarrijobrito\@outlook.com/matheus.brito\@fgv.edu.br
