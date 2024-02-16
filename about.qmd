@@ -1,6 +1,6 @@
 ---
 title: "Home"
-image: img/foto_perfil.png
+image: img/foto_perfil.jpg
 about: 
   template: trestles
   image-width: 10em
@@ -15,14 +15,24 @@ about:
 
 ## Website
 
-I'm Matheus Brito currently a phd student at São Paulo School of Economics.
-
 -   **Interests:**
 
-    -   Behavior Finance:
+    -   Behavior Finance. 
+    
+        - Retail Investors. 
+        
+        - Behavioral Biases. 
 
     -   Empirical Finance
 
     -   Macroeconomics
+
+-  **Programing Skills** 
+
+    -  R: advanced (dplyr, fixest, data.table, ggplot, stringr, ...)
+    
+    -  Python: Intermediate (pandas, numpy, matplotlib,...) 
+    
+    -  Matlab: Intermediate (dynare) 
 
 **Contacts:** matheuscarrijobrito\@outlook.com/matheus.brito\@fgv.edu.br

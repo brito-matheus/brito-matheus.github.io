@@ -6,9 +6,11 @@ title: "Teaching"
 
 -   \(2022\)
 
-    -    Applied Macroeconometrics - Undergraduate EESP
+    -   Applied Macroeconometrics - Undergraduate EESP
 
-        -   Estimation of VAR, SVARs, VARs with restricted signal, Local Projections in R
+    ```         
+    -   Estimation of VAR, SVARs, VARs with restricted signal, Local Projections in R
+    ```
 
     -   Financial Computations Methods - Undergraduate EESP
 

@@ -1,6 +1,6 @@
 ---
 title: "Personal Webpage" 
-image: img/foto_5.jpg
+image: img/foto_perfil.jpg
 about: 
   template: trestles
   image-width: 10em
@@ -29,10 +29,10 @@ about:
 
 -  **Programing Skills** 
 
-    -  R: advanced (dplyr, fixest, data.table, ggplot, stringr, ...) \\
+    -  R: advanced (dplyr, fixest, data.table, ggplot, stringr, ...)
     
-    -  Python: Intermediate (pandas, numpy, matplotlib,...) \\
+    -  Python: Intermediate (pandas, numpy, matplotlib,...) 
     
-    -  Matlab: Intermediate (dynare) \\
+    -  Matlab: Intermediate (dynare) 
 
 **Contacts:** matheuscarrijobrito\@outlook.com/matheus.brito\@fgv.edu.br
