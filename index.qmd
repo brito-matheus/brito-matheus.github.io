@@ -13,14 +13,26 @@ about:
       text: Twitter
 ---
 
-#### I'm Matheus Brito currently a phd student at São Paulo School of Economics.
+#### I'm Matheus Brito phd student at São Paulo School of Economics.
 
 -   **Interests:**
 
-    -   Behavior Finance:
+    -   Behavior Finance. 
+    
+        - Retail Investors. 
+        
+        - Behavioral Biases. 
 
     -   Empirical Finance
 
     -   Macroeconomics
+
+-  **Programing Skills** 
+
+    -  R: advanced (dplyr, fixest, data.table, ggplot, stringr, ...) \\
+    
+    -  Python: Intermediate (pandas, numpy, matplotlib,...) \\
+    
+    -  Matlab: Intermediate (dynare) \\
 
 **Contacts:** matheuscarrijobrito\@outlook.com/matheus.brito\@fgv.edu.br

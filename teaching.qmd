@@ -4,8 +4,26 @@ title: "Teaching"
 
 ## TA positions:
 
--   Stochastic Calculus
+-   \(2022\)
 
--   Financial Econometrics
+    -    Applied Macroeconometrics - Undergraduate EESP
 
--   Empirical Macroeconometrics
+        -   Estimation of VAR, SVARs, VARs with restricted signal, Local Projections in R
+
+    -   Financial Computations Methods - Undergraduate EESP
+
+        -   Simulation of Financial Derivatives Process in R
+
+    -   Introduction to Stochastic Calculus - Undergraduate EESP
+
+        -   Problem Sets
+
+    -   Financial Econometrics - Professional Master
+
+        -   Factors Models, Volatility Models and Time Series Analysis in R
+
+-   \(2021\)
+
+    -   Financial Econometrics - Professional Master
+
+        -   Factors Models, Volatility Models and Time Series Analysis in R

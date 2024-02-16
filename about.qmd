@@ -1,6 +1,6 @@
 ---
 title: "Home"
-image: img/foto_5.jpg
+image: img/foto_perfil.png
 about: 
   template: trestles
   image-width: 10em
