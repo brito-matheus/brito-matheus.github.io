@@ -8,10 +8,12 @@ title: "Reseach"
 
 This paper examines the impact of luck on retail investors' trading activity. We document an increase in trading activity and a worsening in the performance of lucky investors. We considered lucky investors who sold stock before an unexpected environmental disaster that caused a significant devaluation of this stock. After the event, lucky investors present 11% of portfolio turnover, 46% of numbers of trade, and 35% of the number of days with trade higher than similar investors. Also, the portfolio return risk-unadjusted is 6% and adjusted is 4% lower for lucky investors. Placebo tests indicate that our results are due to this specific stock by investors that sold this stock, and no effect is found using past outcomes.
 
-### Ongoing Projects 
+[Distracted by Crypto](https://1drv.ms/b/s!ApUHgEaZ0FjUk9xAJSJOVxEU9xRiOw?e=i1kNLP)
 
-#### Day-0 Returns by Retail Investors 
+How have retail equity investors responded to the surge in cryptocurrencies? Analyzing detailed data on all Brazilian investors from 2012 to 2018, we find that retail equity trading decreases during periods when cryptocurrencies are attention-grabbing. The economic impact ranges from 5.1\% to 7.9\% and is more pronounced among younger investors and those in blockchain-related professions. Net trading flow analysis reveals no significant inflows or outflows, supporting a distraction-based interpretation. Validation with U.S. retail trading data confirms these results. As cryptocurrencies become mainstream from 2019 to 2022, we observe a diminishing distraction effect, consistent with individuals perceiving them as a conventional asset.
 
-#### Cryptocurrency Salience and Retail Investing 
+### Ongoing Projects
+
+#### Day-0 Returns by Retail Investors
 
 #### What factors move or correlate with digital assets? \\ Is the digital market a leading or trailing indicator for other asset classes?
