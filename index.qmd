@@ -17,25 +17,25 @@ about:
 
 -   I'm currently a PhD student in Economics at FGV-EESP (Brazil). My research intestes are in Finance, Empirical Asset Pricing and Macro-Finance. My Phd Thesis focus on retail investors behavior. In the first chapter I explore how cryptocurrency attention events influence the retail trading in stocks. In the second chapter I explore how retail investors provides liquidity in the stock market. And in the third chapter I explore how retail investors behave in fixed income market.
 
--  **Research Interests**
-   
-    - Asset Pricing
+-   **Research Interests**
 
-    - Empirical Asset Pricing
-    
-    - Behavioral Finance
-    
--  **Awards**
+    -   Asset Pricing
 
-    - Best Paper In Finance Award  - SBE (2024)
-    - Runner-UP FGC Prize in EBFIN (2024)
-    - Capes Fellowship (2020-2024)
-    - Fapesp Fellowship (2024-2026)
+    -   Empirical Asset Pricing
 
--  **Programing Skills** 
+    -   Behavioral Finance
 
-    -  R: advanced
-    
-    -  Python: Intermediate
+-   **Awards**
+
+    -   Best Paper In Finance Award - SBE (2024)
+    -   Runner-UP FGC Prize in EBFIN (2024)
+    -   Capes Fellowship (2020-2024)
+    -   Fapesp Fellowship (2024-2026)
+
+-   **Programing Skills**
+
+    -   R: advanced
+
+    -   Python: Intermediate
 
 **Contacts:** matheuscarrijobrito\@outlook.com/matheus.brito\@fgv.edu.br
