@@ -3,11 +3,9 @@ project:
   output-dir: docs 
   
 website:
-  title: "Welcome!"
+  title: "Home"
   navbar: 
     left: 
-      - href: about.qmd
-        text: Home
       - href: research.qmd
         text: Reseach
       - href: experience.qmd
