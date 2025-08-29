@@ -4,42 +4,42 @@
     "href": "index.html",
     "title": "Personal Webpage",
     "section": "",
-    "text": "I’m Matheus Brito phd student at São Paulo School of Economics.\n\nInterests:\n\nBehavior Finance.\n\nRetail Investors.\nBehavioral Biases.\n\nEmpirical Finance\nMacroeconomics\n\nPrograming Skills\n\nR: advanced (dplyr, fixest, data.table, ggplot, stringr, …)\nPython: Intermediate (pandas, numpy, matplotlib,…)\nMatlab: Intermediate (dynare)\n\n\nContacts: matheuscarrijobrito@outlook.com/matheus.brito@fgv.edu.br"
+    "text": "I’m currently a PhD student in Economics at FGV-EESP (Brazil). My research intestes are in Finance, Empirical Asset Pricing and Macro-Finance. My Phd Thesis focus on retail investors behavior. In the first chapter I explore how cryptocurrency attention events influence the retail trading in stocks. In the second chapter I explore how retail investors provides liquidity in the stock market. And in the third chapter I explore how retail investors behave in fixed income market.\nResearch Interests\n\nAsset Pricing\nEmpirical Asset Pricing\nBehavioral Finance\n\nAwards\n\nBest Paper In Finance Award - SBE (2024)\nRunner-UP FGC Prize in EBFIN (2024)\nCapes Fellowship (2020-2024)\nFapesp Fellowship (2024-2026)\n\nPrograming Skills\n\nR: advanced\nPython: Intermediate\n\n\nContacts: matheuscarrijobrito@outlook.com/matheus.brito@fgv.edu.br"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Home",
     "section": "",
-    "text": "Interests:\n\nBehavior Finance.\n\nRetail Investors.\nBehavioral Biases.\n\nEmpirical Finance\nMacroeconomics\n\nPrograming Skills\n\nR: advanced (dplyr, fixest, data.table, ggplot, stringr, …)\nPython: Intermediate (pandas, numpy, matplotlib,…)\nMatlab: Intermediate (dynare)\n\n\nContacts: matheuscarrijobrito@outlook.com/matheus.brito@fgv.edu.br"
+    "text": "I’m currently a PhD student in Economics at FGV-EESP (Brazil). My research intestes are in Finance, Empirical Asset Pricing and Macro-Finance. My Phd Thesis focus on retail investors behavior. In the first chapter I explore how cryptocurrency attention events influence the retail trading in stocks. In the second chapter I explore how retail investors provides liquidity in the stock market. And in the third chapter I explore how retail investors behave in fixed income market.\nResearch Interests\n\nAsset Pricing\nEmpirical Asset Pricing\nBehavioral Finance\n\nAwards\n\nBest Paper In Finance Award - SBE (2024)\nRunner-UP FGC Prize in EBFIN (2024)\nCapes Fellowship (2020-2024)\nFapesp Fellowship (2024-2026)\n\nPrograming Skills\n\nR: advanced\nPython: Intermediate\n\n\nContacts: matheuscarrijobrito@outlook.com/matheus.brito@fgv.edu.br"
   },
   {
     "objectID": "about.html#website",
     "href": "about.html#website",
     "title": "Home",
     "section": "",
-    "text": "Interests:\n\nBehavior Finance.\n\nRetail Investors.\nBehavioral Biases.\n\nEmpirical Finance\nMacroeconomics\n\nPrograming Skills\n\nR: advanced (dplyr, fixest, data.table, ggplot, stringr, …)\nPython: Intermediate (pandas, numpy, matplotlib,…)\nMatlab: Intermediate (dynare)\n\n\nContacts: matheuscarrijobrito@outlook.com/matheus.brito@fgv.edu.br"
+    "text": "Interests:\n\nBehavior Finance.\n\nRetail Investors.\nBehavioral Biases.\n\nEmpirical Finance\nMacroeconomics\n\nPrograming Skills\n\nR: advanced (dplyr, fixest, data.table, ggplot, stringr, …)\nPython: Intermediate (pandas, numpy, matplotlib,…)\n\n\nContacts: matheuscarrijobrito@outlook.com/matheus.brito@fgv.edu.br"
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
-    "title": "Teaching",
+    "title": "Experience",
     "section": "",
-    "text": "(2022)\n\nApplied Macroeconometrics - Undergraduate EESP\n\n-   Estimation of VAR, SVARs, VARs with restricted signal, Local Projections in R\n\nFinancial Computations Methods - Undergraduate EESP\n\nSimulation of Financial Derivatives Process in R\n\nIntroduction to Stochastic Calculus - Undergraduate EESP\n\nProblem Sets\n\nFinancial Econometrics - Professional Master\n\nFactors Models, Volatility Models and Time Series Analysis in R\n\n\n(2021)\n\nFinancial Econometrics - Professional Master\n\nFactors Models, Volatility Models and Time Series Analysis in R"
+    "text": "Research Assistant — Brazilian National Treasure\n2025–Present\n- Conducted statistical analysis using R to evaluate the Bond trading.\n** Research Assistant** — FGV EAESP and Bacen 2024 - Data Analyst in the project of Financial Inclusion and the Bolsa Familia Program.\nUnder-graduation Instructor — São Paulo School of Economics - FGV\n2024–2025\n- Introduction of Finance, Investment, Linear Algebra, Banking Theory, Computational Methods in Finance.\nTeacher Assistant — São Paulo School of Economics - FGV\n2022–2025\n- PhD Level: Empirical Asset Pricing\n- Master Level: Computational Methods in Finance, Investments, Risk Asset Management\n- Under-graduation Level: Stochastic Calculus, Empirical Macroeconometrics"
   },
   {
     "objectID": "teaching.html#ta-positions",
     "href": "teaching.html#ta-positions",
     "title": "Teaching",
     "section": "",
-    "text": "(2022)\n\nApplied Macroeconometrics - Undergraduate EESP\n\n-   Estimation of VAR, SVARs, VARs with restricted signal, Local Projections in R\n\nFinancial Computations Methods - Undergraduate EESP\n\nSimulation of Financial Derivatives Process in R\n\nIntroduction to Stochastic Calculus - Undergraduate EESP\n\nProblem Sets\n\nFinancial Econometrics - Professional Master\n\nFactors Models, Volatility Models and Time Series Analysis in R\n\n\n(2021)\n\nFinancial Econometrics - Professional Master\n\nFactors Models, Volatility Models and Time Series Analysis in R"
+    "text": "(2022)\n\nApplied Macroeconometrics - Undergraduate EESP\n\nEstimation of VAR, SVARs, VARs with restricted signal, Local Projections in R\n\nFinancial Computations Methods - Undergraduate EESP\n\nSimulation of Financial Derivatives Process in R\n\nIntroduction to Stochastic Calculus - Undergraduate EESP\n\nProblem Sets\n\nFinancial Econometrics - Professional Master\n\nFactors Models, Volatility Models and Time Series Analysis in R\n\n\n(2021)\n\nFinancial Econometrics - Professional Master\n\nFactors Models, Volatility Models and Time Series Analysis in R"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Reseach",
     "section": "",
-    "text": "Working Papers\nLucky investors trade more : evidence from a large and salient exogenous price shock\nJoint work with Fernando Chague and Bruno Giovannetti\n\nRunner-up FGC-prize for best Asset Pricing paper at the 2024 Brazilian Finance Society Meeting\nPresented: 2024 Brazilian Finance Society Meeting\n\nThis paper examines the impact of luck on retail investors’ trading activity. We document an increase in trading activity and a worsening in the performance of lucky investors. We considered lucky investors who sold stock before an unexpected environmental disaster that caused a significant devaluation of this stock. After the event, lucky investors present 11% of portfolio turnover, 46% of numbers of trade, and 35% of the number of days with trade higher than similar investors. Also, the portfolio return risk-unadjusted is 6% and adjusted is 4% lower for lucky investors. Placebo tests indicate that our results are due to this specific stock by investors that sold this stock, and no effect is found using past outcomes.\nDistracted by Crypto\nJoint work with Fernando Chague and Jéfferson A. Colombo\n\nBest paper award in Finance, Brazilian Econometric Society Meeting, 2024\n\n\n\nPresented: Brazilian Econometric Society Metting (2024), PPGE-UFRS (2024)\n\nHow have retail equity investors responded to the surge in cryptocurrencies? Analyzing detailed data on all Brazilian investors from 2012 to 2018, we find that retail equity trading decreases during periods when cryptocurrencies are attention-grabbing. The economic impact ranges from 5.1% to 7.9% and is more pronounced among younger investors and those in blockchain-related professions. Net trading flow analysis reveals no significant inflows or outflows, supporting a distraction-based interpretation. Validation with U.S. retail trading data confirms these results. As cryptocurrencies become mainstream from 2019 to 2022, we observe a diminishing distraction effect, consistent with individuals perceiving them as a conventional asset.\n\n\nWork in Progress\n\nDay-0 Returns by Retail Investors\n\n\nWhat factors move or correlate with digital assets? \\ Is the digital market a leading or trailing indicator for other asset classes?"
+    "text": "Working Papers\nLucky investors trade more : evidence from a large and salient exogenous price shock\nJoint work with Fernando Chague and Bruno Giovannetti\n\nAccepted for publication at the Brazilian Review of Econometrics (2025)\nRunner-up FGC-prize for best Asset Pricing paper at the 2024 Brazilian Finance Society Meeting\nPresented: 2024 Brazilian Finance Society Meeting\n\nThis paper examines the impact of luck on retail investors’ trading activity. We document an increase in trading activity and a worsening in the performance of lucky investors. We considered lucky investors who sold stock before an unexpected environmental disaster that caused a significant devaluation of this stock. After the event, lucky investors present 11% of portfolio turnover, 46% of numbers of trade, and 35% of the number of days with trade higher than similar investors. Also, the portfolio return risk-unadjusted is 6% and adjusted is 4% lower for lucky investors. Placebo tests indicate that our results are due to this specific stock by investors that sold this stock, and no effect is found using past outcomes.\nDistracted by Crypto\nJoint work with Fernando Chague and Jéfferson A. Colombo\n\nSubmitted.\nBest paper award in Finance, Brazilian Econometric Society Meeting, 2024\n\n\n\nPresented: Brazilian Finance Society Metting (2025), Brazilian Econometric Society Metting (2024), PPGE-UFRS (2024)\n\nHow have retail equity investors responded to the surge in cryptocurrencies? Analyzing detailed data on all Brazilian investors from 2012 to 2018, we find that retail equity trading decreases during periods when cryptocurrencies are attention-grabbing. The economic impact ranges from 5.1% to 7.9% and is more pronounced among younger investors and those in blockchain-related professions. Net trading flow analysis reveals no significant inflows or outflows, supporting a distraction-based interpretation. Validation with U.S. retail trading data confirms these results. As cryptocurrencies become mainstream from 2020 to 2022, we observe a diminishing distraction effect, consistent with individuals perceiving them as a conventional asset.\n\n\nWork in Progress\n\nDay-0 Returns by Retail Investors"
   },
   {
     "objectID": "research.html#research",
@@ -61,5 +61,40 @@
     "title": "Blog",
     "section": "",
     "text": "Gabi e Max dois amores da minha vida."
+  },
+  {
+    "objectID": "about.html#a",
+    "href": "about.html#a",
+    "title": "Home",
+    "section": "",
+    "text": "Interests:\n\nBehavior Finance.\n\nRetail Investors.\nBehavioral Biases.\n\nEmpirical Finance\nMacroeconomics\n\nPrograming Skills\n\nR: advanced (dplyr, fixest, data.table, ggplot, stringr, …)\nPython: Intermediate (pandas, numpy, matplotlib,…)\n\n\nContacts: matheuscarrijobrito@outlook.com/matheus.brito@fgv.edu.br"
+  },
+  {
+    "objectID": "about.html#about",
+    "href": "about.html#about",
+    "title": "Home",
+    "section": "",
+    "text": "I’m currently a PhD student in Economics at FGV-EESP (Brazil). My research intestes are in Finance, Empirical Asset Pricing and Macro-Finance. My Phd Thesis focus on retail investors behavior. In the first chapter I explore how cryptocurrency attention events influence the retail trading in stocks. In the second chapter I explore how retail investors provides liquidity in the stock market. And in the third chapter I explore how retail investors behave in fixed income market.\nResearch Interests\n\nAsset Pricing\nEmpirical Asset Pricing\nBehavioral Finance\n\nAwards\n\nBest Paper In Finance Award - SBE (2024)\nRunner-UP FGC Prize in EBFIN (2024)\nCapes Fellowship (2020-2024)\nFapesp Fellowship (2024-2026)\n\nPrograming Skills\n\nR: advanced\nPython: Intermediate\n\n\nContacts: matheuscarrijobrito@outlook.com/matheus.brito@fgv.edu.br"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Personal Webpage",
+    "section": "",
+    "text": "I’m currently a PhD student in Economics at FGV-EESP (Brazil). My research intestes are in Finance, Empirical Asset Pricing and Macro-Finance. My Phd Thesis focus on retail investors behavior. In the first chapter I explore how cryptocurrency attention events influence the retail trading in stocks. In the second chapter I explore how retail investors provides liquidity in the stock market. And in the third chapter I explore how retail investors behave in fixed income market.\nResearch Interests\n\nAsset Pricing\nEmpirical Asset Pricing\nBehavioral Finance\n\nAwards\n\nBest Paper In Finance Award - SBE (2024)\nRunner-UP FGC Prize in EBFIN (2024)\nCapes Fellowship (2020-2024)\nFapesp Fellowship (2024-2026)\n\nPrograming Skills\n\nR: advanced\nPython: Intermediate\n\n\nContacts: matheuscarrijobrito@outlook.com/matheus.brito@fgv.edu.br"
+  },
+  {
+    "objectID": "teaching.html#experience",
+    "href": "teaching.html#experience",
+    "title": "Experience",
+    "section": "",
+    "text": "Research Assistant — Brazilian National Treasure\n2025–Present\n- Conducted statistical analysis using R to evaluate the Bond trading.\nUnder-graduation Instructor — São Paulo School of Economics - FGV\n2024–2025\n- Introduction of Finance, Investment, Linear Algebra, Banking Theory, Computational Methods in Finance.\nTeacher Assistant — São Paulo School of Economics - FGV\n2022–2025\n- PhD Level: Empirical Asset Pricing\n- Master Level: Computational Methods in Finance, Investments, Risk Asset Management\n- Under-graduation Level: Stochastic Calculus, Empirical Macroeconometrics"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Research Assistant — Brazilian National Treasure\n2025–Present\n- Conducted statistical analysis using R to evaluate the Bond trading.\n** Research Assistant** — FGV EAESP and Bacen 2024 - Data Analyst in the project of Financial Inclusion and the Bolsa Familia Program.\nUnder-graduation Instructor — São Paulo School of Economics - FGV\n2024–2025\n- Introduction of Finance, Investment, Linear Algebra, Banking Theory, Computational Methods in Finance.\nTeacher Assistant — São Paulo School of Economics - FGV\n2022–2025\n- PhD Level: Empirical Asset Pricing\n- Master Level: Computational Methods in Finance, Investments, Risk Asset Management\n- Under-graduation Level: Stochastic Calculus, Empirical Macroeconometrics"
   }
 ]

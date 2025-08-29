@@ -10,8 +10,8 @@ website:
         text: Home
       - href: research.qmd
         text: Reseach
-      - href: teaching.qmd
-        text: Teaching
+      - href: experience.qmd
+        text: Experience
       - href: blog_post.qmd
         text: Blog Post
     background: dark

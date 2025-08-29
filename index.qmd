@@ -13,26 +13,29 @@ about:
       text: Twitter
 ---
 
-#### I'm Matheus Brito phd student at São Paulo School of Economics.
+## About
 
--   **Interests:**
+-   I'm currently a PhD student in Economics at FGV-EESP (Brazil). My research intestes are in Finance, Empirical Asset Pricing and Macro-Finance. My Phd Thesis focus on retail investors behavior. In the first chapter I explore how cryptocurrency attention events influence the retail trading in stocks. In the second chapter I explore how retail investors provides liquidity in the stock market. And in the third chapter I explore how retail investors behave in fixed income market.
 
-    -   Behavior Finance. 
+-  **Research Interests**
+   
+    - Asset Pricing
+
+    - Empirical Asset Pricing
     
-        - Retail Investors. 
-        
-        - Behavioral Biases. 
+    - Behavioral Finance
+    
+-  **Awards**
 
-    -   Empirical Finance
-
-    -   Macroeconomics
+    - Best Paper In Finance Award  - SBE (2024)
+    - Runner-UP FGC Prize in EBFIN (2024)
+    - Capes Fellowship (2020-2024)
+    - Fapesp Fellowship (2024-2026)
 
 -  **Programing Skills** 
 
-    -  R: advanced (dplyr, fixest, data.table, ggplot, stringr, ...)
+    -  R: advanced
     
-    -  Python: Intermediate (pandas, numpy, matplotlib,...) 
-    
-    -  Matlab: Intermediate (dynare) 
+    -  Python: Intermediate
 
 **Contacts:** matheuscarrijobrito\@outlook.com/matheus.brito\@fgv.edu.br

@@ -6,7 +6,9 @@ title: "Reseach"
 
 [Lucky investors trade more : evidence from a large and salient exogenous price shock](https://repositorio.fgv.br/server/api/core/bitstreams/adf6634e-903b-49ae-acbb-5e1aad8c6d22/content)
 
-Joint work with [Fernando Chague](https://sites.google.com/site/fchague/) and Bruno Giovannetti
+Joint work with [Fernando Chague](https://sites.google.com/site/fchague/) and [Bruno Giovannetti](https://sites.google.com/site/bcaragiovannetti/home)
+
+-   Accepted for publication at the Brazilian Review of Econometrics (2025)
 
 -   Runner-up FGC-prize for best Asset Pricing paper at the 2024 Brazilian Finance Society Meeting
 
@@ -18,17 +20,16 @@ This paper examines the impact of luck on retail investors' trading activity. We
 
 Joint work with [Fernando Chague](https://sites.google.com/site/fchague/) and [Jéfferson A. Colombo](https://sites.google.com/view/jacolombo/home?authuser=0)
 
+-   Submitted.
+
 -   Best paper award in Finance, Brazilian Econometric Society Meeting, 2024
 
-```{=html}
 <!-- -->
-```
--   Presented: Brazilian Econometric Society Metting (2024), PPGE-UFRS (2024)
 
-How have retail equity investors responded to the surge in cryptocurrencies? Analyzing detailed data on all Brazilian investors from 2012 to 2018, we find that retail equity trading decreases during periods when cryptocurrencies are attention-grabbing. The economic impact ranges from 5.1% to 7.9% and is more pronounced among younger investors and those in blockchain-related professions. Net trading flow analysis reveals no significant inflows or outflows, supporting a distraction-based interpretation. Validation with U.S. retail trading data confirms these results. As cryptocurrencies become mainstream from 2019 to 2022, we observe a diminishing distraction effect, consistent with individuals perceiving them as a conventional asset.
+-   Presented: Brazilian Finance Society Metting (2025), Brazilian Econometric Society Metting (2024), PPGE-UFRS (2024)
 
-### Work in Progress 
+How have retail equity investors responded to the surge in cryptocurrencies? Analyzing detailed data on all Brazilian investors from 2012 to 2018, we find that retail equity trading decreases during periods when cryptocurrencies are attention-grabbing. The economic impact ranges from 5.1% to 7.9% and is more pronounced among younger investors and those in blockchain-related professions. Net trading flow analysis reveals no significant inflows or outflows, supporting a distraction-based interpretation. Validation with U.S. retail trading data confirms these results. As cryptocurrencies become mainstream from 2020 to 2022, we observe a diminishing distraction effect, consistent with individuals perceiving them as a conventional asset.
+
+### Work in Progress
 
 #### Day-0 Returns by Retail Investors
-
-#### What factors move or correlate with digital assets? \\ Is the digital market a leading or trailing indicator for other asset classes?

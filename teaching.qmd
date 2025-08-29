@@ -1,31 +1,23 @@
 ---
-title: "Teaching"
+title: "Experience"
 ---
 
-## TA positions:
 
--   \(2022\)
 
-    -   Applied Macroeconometrics - Undergraduate EESP
+**Research Assistant** — Brazilian National Treasure  
+*2025–Present*  
+- Conducted statistical analysis using R to evaluate the Bond trading.
 
-    ```         
-    -   Estimation of VAR, SVARs, VARs with restricted signal, Local Projections in R
-    ```
+** Research Assistant** — FGV EAESP and Bacen 
+*2024*
+- Data Analyst in the project of Financial Inclusion and the Bolsa Familia Program. 
 
-    -   Financial Computations Methods - Undergraduate EESP
+**Under-graduation Instructor** — São Paulo School of Economics - FGV  
+*2024–2025*  
+- Introduction of Finance, Investment, Linear Algebra, Banking Theory, Computational Methods in Finance.
 
-        -   Simulation of Financial Derivatives Process in R
-
-    -   Introduction to Stochastic Calculus - Undergraduate EESP
-
-        -   Problem Sets
-
-    -   Financial Econometrics - Professional Master
-
-        -   Factors Models, Volatility Models and Time Series Analysis in R
-
--   \(2021\)
-
-    -   Financial Econometrics - Professional Master
-
-        -   Factors Models, Volatility Models and Time Series Analysis in R
+**Teacher Assistant** — São Paulo School of Economics - FGV  
+*2022–2025*  
+- PhD Level: Empirical Asset Pricing  
+- Master Level: Computational Methods in Finance, Investments, Risk Asset Management  
+- Under-graduation Level: Stochastic Calculus, Empirical Macroeconometrics
