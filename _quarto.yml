@@ -4,8 +4,9 @@ project:
   
 website:
   title: "Home"
-  navbar: 
-    left: 
+  google-analytics: "G-ML9D5S9EH0"
+  navbar:
+    left:
       - href: research.qmd
         text: Reseach
       - href: experience.qmd
