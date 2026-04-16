@@ -1,41 +1,32 @@
 ---
-title: "Personal Webpage" 
+title: "Matheus C. Brito"
+toc: false
 image: img/foto_perfil.jpg
-about: 
+about:
   template: trestles
   image-width: 10em
   links:
     - href: https://www.linkedin.com/in/matheus-carrijo-de-brito-1287539b
-      icon: github
+      icon: linkedin
       text: LinkedIn
     - href: https://twitter.com/CarrijoBrito
       icon: twitter
       text: Twitter
 ---
 
-## About
+::: {style="text-align: justify;"}
 
--   I'm currently a PhD student in Economics at FGV-EESP (Brazil). My research intestes are in Finance, Empirical Asset Pricing and Macro-Finance. My Phd Thesis focus on retail investors behavior. In the first chapter I explore how cryptocurrency attention events influence the retail trading in stocks. In the second chapter I explore how retail investors provides liquidity in the stock market. And in the third chapter I explore how retail investors behave in fixed income market.
+## **Welcome**
 
--   **Research Interests**
+Hello! I am a PhD Candidate at the São Paulo School of Economics (FGV-EESP). My research focuses on empirical asset pricing and behavioral finance, with a particular emphasis on retail investors. Prior to my PhD, I earned a Master's degree from FGV-EESP and a Bachelor's degree in Economics from the University of São Paulo - Ribeirão Preto (FEARP).
 
-    -   Asset Pricing
+**Awards**
 
-    -   Empirical Asset Pricing
+-   Best Paper in Finance Award - SBE (2024)
+-   Runner-Up FGC Prize in EBFIN (2024)
+-   FAPESP Fellowship (2024-2026)
+-   CAPES Fellowship (2020-2024)
 
-    -   Behavioral Finance
+**Contact:** [matheuscarrijobrito@outlook.com](mailto:matheuscarrijobrito@outlook.com) | [matheus.brito@fgv.edu.br](mailto:matheus.brito@fgv.edu.br)
 
--   **Awards**
-
-    -   Best Paper In Finance Award - SBE (2024)
-    -   Runner-UP FGC Prize in EBFIN (2024)
-    -   Capes Fellowship (2020-2024)
-    -   Fapesp Fellowship (2024-2026)
-
--   **Programing Skills**
-
-    -   R: advanced
-
-    -   Python: Intermediate
-
-**Contacts:** matheuscarrijobrito\@outlook.com/matheus.brito\@fgv.edu.br
+:::

@@ -1,1 +1,22 @@
 /* css styles */
+
+/* Paper titles */
+.paper-title a {
+  color: #2c3e50;
+  font-weight: 600;
+  text-decoration: none;
+}
+.paper-title a:hover {
+  color: #1a252f;
+  text-decoration: underline;
+}
+
+/* Coauthors */
+.coauthors a {
+  color: #7f8c8d;
+  text-decoration: none;
+}
+.coauthors a:hover {
+  color: #566573;
+  text-decoration: underline;
+}
