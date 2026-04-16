@@ -20,3 +20,18 @@
   color: #566573;
   text-decoration: underline;
 }
+
+/* Abstract toggle */
+details summary {
+  color: #2980b9;
+  font-weight: 500;
+  cursor: pointer;
+}
+details summary:hover {
+  color: #1f6d9c;
+}
+
+/* Abstract body text */
+details p {
+  color: #566573;
+}
