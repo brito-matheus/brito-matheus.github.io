@@ -4,9 +4,9 @@ title: "Reseach"
 
 ### Working Papers
 
-<span class="paper-title">[Distracted by Crypto](https://1drv.ms/b/s!ApUHgEaZ0FjUk9xAJSJOVxEU9xRiOw?e=i1kNLP)</span>
+[[Distracted by Crypto](https://1drv.ms/b/s!ApUHgEaZ0FjUk9xAJSJOVxEU9xRiOw?e=i1kNLP)]{.paper-title}
 
-<span class="coauthors">Joint work with [Fernando Chague](https://sites.google.com/site/fchague/) and [Jéfferson A. Colombo](https://sites.google.com/view/jacolombo/home?authuser=0)</span>
+[Joint work with [Fernando Chague](https://sites.google.com/site/fchague/) and [Jéfferson A. Colombo](https://sites.google.com/view/jacolombo/home?authuser=0)]{.coauthors}
 
 -   Best paper award in Finance, Brazilian Econometric Society Meeting, 2024
 
@@ -22,9 +22,9 @@ How have retail equity investors responded to the surge in cryptocurrencies? Ana
 
 </details>
 
-<span class="paper-title">[Acidental Market Markers](Draft%20Available%20upon%20request)</span>
+[[Acidental Market Markers](Draft%20Available%20upon%20request)]{.paper-title}
 
-<span class="coauthors">Joint work with [Fernando Chague](https://sites.google.com/site/fchague/)</span>
+[Joint work with [Fernando Chague](https://sites.google.com/site/fchague/)]{.coauthors}
 
 -   Scheduale Presentations (Brazilian Finance Meeting 2026, Finance Hub - Insper, SURF-RIO 2026)
 
@@ -36,7 +36,7 @@ Using comprehensive data from the Brazilian equity market (2017-2022), we docume
 
 </details>
 
-<span class="paper-title">\[Fixed-Income Clienteles: Evidence from Direct Retail Holdings\]</span>
+[\[Fixed-Income Clienteles: Evidence from Direct Retail Holdings\]]{.paper-title}
 
 -   Schedule Presentations (Brazilian Finance Meeting 2026)
 
@@ -48,9 +48,9 @@ This paper investigates which bond characteristics drive retail investors' alloc
 
 </details>
 
-<span class="paper-title">[Lucky investors trade more : evidence from a large and salient exogenous price shock](https://repositorio.fgv.br/server/api/core/bitstreams/adf6634e-903b-49ae-acbb-5e1aad8c6d22/content)</span>
+[[Lucky investors trade more : evidence from a large and salient exogenous price shock](https://repositorio.fgv.br/server/api/core/bitstreams/adf6634e-903b-49ae-acbb-5e1aad8c6d22/content)]{.paper-title}
 
-<span class="coauthors">Joint work with [Fernando Chague](https://sites.google.com/site/fchague/) and [Bruno Giovannetti](https://sites.google.com/site/bcaragiovannetti/home)</span>
+[Joint work with [Fernando Chague](https://sites.google.com/site/fchague/) and [Bruno Giovannetti](https://sites.google.com/site/bcaragiovannetti/home)]{.coauthors}
 
 -   Accepted for publication at the Brazilian Review of Econometrics (2025)
 
