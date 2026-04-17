@@ -1,19 +1,5 @@
 ---
 toc: false
-<<<<<<< HEAD
-=======
-image: img/foto_perfil.jpg
-about:
-  template: trestles
-  image-width: 12em
-  links:
-    - href: https://www.linkedin.com/in/matheus-carrijo-de-brito-1287539b
-      icon: linkedin
-      text: LinkedIn
-    - href: https://twitter.com/CarrijoBrito
-      icon: twitter
-      text: Twitter
->>>>>>> cd38ff20efb55fa052278b340e1d044818973def
 ---
 
 ## Welcome
