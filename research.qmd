@@ -22,7 +22,7 @@ How have retail equity investors responded to the surge in cryptocurrencies? Ana
 
 </details>
 
-[2. [Acidental Market Markers](Draft%20Available%20upon%20request)]{.paper-title}
+[2. Acidental Market Markers]{.paper-title} — *Draft upon Request*
 
 [Joint work with [Fernando Chague](https://sites.google.com/site/fchague/)]{.coauthors}
 
@@ -36,7 +36,7 @@ Using comprehensive data from the Brazilian equity market (2017-2022), we docume
 
 </details>
 
-[3. [Fixed-Income Clienteles: Evidence from Direct Retail Holdings](Draft%20Available%20upon%20request)]{.paper-title}
+[3. Fixed-Income Clienteles: Evidence from Direct Retail Holdings]{.paper-title} — *Draft upon Request*
 
 -   Schedule Presentations (Brazilian Finance Meeting 2026)
 

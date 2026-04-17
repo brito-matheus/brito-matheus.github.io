@@ -3,8 +3,8 @@ title: "Matheus C. Brito"
 toc: false
 image: img/foto_perfil.jpg
 about:
-  template: trestles
-  image-width: 10em
+  template: solana
+  image-width: 12em
   links:
     - href: https://www.linkedin.com/in/matheus-carrijo-de-brito-1287539b
       icon: linkedin
@@ -13,8 +13,6 @@ about:
       icon: twitter
       text: Twitter
 ---
-
-::: {style="text-align: justify;"}
 
 ## **Welcome**
 
@@ -28,5 +26,3 @@ Hello! I am a PhD Candidate at the São Paulo School of Economics (FGV-EESP). My
 -   CAPES Fellowship (2020-2024)
 
 **Contact:** [matheuscarrijobrito@outlook.com](mailto:matheuscarrijobrito@outlook.com) | [matheus.brito@fgv.edu.br](mailto:matheus.brito@fgv.edu.br)
-
-:::
