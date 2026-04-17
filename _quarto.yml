@@ -1,14 +1,14 @@
 project:
   type: website
-  output-dir: docs 
-  
+  output-dir: docs
+
 website:
   title: "Home"
   google-analytics: "G-ML9D5S9EH0"
   navbar:
     left:
       - href: research.qmd
-        text: Reseach
+        text: Research
       - href: experience.qmd
         text: Experience
       - href: blog_post.qmd
@@ -16,13 +16,12 @@ website:
     background: dark
     foreground: light
   search: false
-  
-  
+
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
+    include-before-body: sidebar.html
 
 editor: visual
-

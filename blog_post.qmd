@@ -2,8 +2,6 @@
 title: "Blog"
 ---
 
-## Blog Post
-
 Gabi e Max dois amores da minha vida.
 
 ![](img/gabi.jpg){width="113"}
