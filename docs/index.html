@@ -59,6 +59,33 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-ML9D5S9EH0', { 'anonymize_ip': true});
 </script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var sidebar = document.createElement('div');
+  sidebar.className = 'profile-sidebar';
+  sidebar.innerHTML = `
+    <div class="sidebar-inner">
+      <img src="img/foto_perfil.jpg" alt="Matheus C. Brito" class="sidebar-photo">
+      <h2 class="sidebar-name">Matheus C. Brito</h2>
+      <p class="sidebar-role">PhD Candidate</p>
+      <p class="sidebar-institution">São Paulo School of Economics<br>FGV-EESP</p>
+      <hr class="sidebar-divider">
+      <div class="sidebar-links">
+        <a href="mailto:matheuscarrijobrito@outlook.com" class="sidebar-link">
+          <i class="bi bi-envelope-fill"></i> Email
+        </a>
+        <a href="https://www.linkedin.com/in/matheus-carrijo-de-brito-1287539b" class="sidebar-link">
+          <i class="bi bi-linkedin"></i> LinkedIn
+        </a>
+        <a href="https://twitter.com/CarrijoBrito" class="sidebar-link">
+          <i class="bi bi-twitter-x"></i> Twitter
+        </a>
+      </div>
+    </div>
+  `;
+  document.body.insertBefore(sidebar, document.body.firstChild);
+});
+</script>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -106,26 +133,6 @@ gtag('config', 'G-ML9D5S9EH0', { 'anonymize_ip': true});
     
 <!-- main -->
 <main class="content" id="quarto-document-content">
-<div class="profile-sidebar">
-  <div class="sidebar-inner">
-    <img src="img/foto_perfil.jpg" alt="Matheus C. Brito" class="sidebar-photo">
-    <h2 class="sidebar-name anchored">Matheus C. Brito</h2>
-    <p class="sidebar-role">PhD Candidate</p>
-    <p class="sidebar-institution">São Paulo School of Economics<br>FGV-EESP</p>
-    <hr class="sidebar-divider">
-    <div class="sidebar-links">
-      <a href="mailto:matheuscarrijobrito@outlook.com" class="sidebar-link">
-        <i class="bi bi-envelope-fill"></i> Email
-      </a>
-      <a href="https://www.linkedin.com/in/matheus-carrijo-de-brito-1287539b" class="sidebar-link">
-        <i class="bi bi-linkedin"></i> LinkedIn
-      </a>
-      <a href="https://twitter.com/CarrijoBrito" class="sidebar-link">
-        <i class="bi bi-twitter-x"></i> Twitter
-      </a>
-    </div>
-  </div>
-</div>
 
 
 
