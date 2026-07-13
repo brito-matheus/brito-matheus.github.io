@@ -22,7 +22,7 @@ How have retail equity investors responded to the surge in cryptocurrencies? Ana
 
 <!-- -->
 
--   Presented: Brazilian Finance Society Metting (2025), Brazilian Econometric Society Metting (2024), PPGE-UFRS (2024)
+-   Presented: Brazilian Finance Society Metting (2025), Brazilian Econometric Society Metting (2024), PPGE-UFRS (2024), Cryptocurrency Research Conference (2024)
 
 [2. Acidental Market Markers](https://1drv.ms/b/c/d458d09946800795/IQAjKR3QyDWnT4SfX0jX4uEfARv7yEONpB6pXjqi1KBaEO0?e=EMvepa){.paper-title} 
 
@@ -70,7 +70,7 @@ This paper examines the impact of luck on retail investors' trading activity. We
 
 [Joint work with [Fernando Chague](https://sites.google.com/site/fchague/) and [Bruno Giovannetti](https://sites.google.com/site/bcaragiovannetti/home)]{.coauthors}
 
--   Accepted for publication at the Brazilian Review of Econometrics (2025)
+-   Accepted for publication at the Brazilian Review of Econometrics (2023)
 
 -   Runner-up FGC-prize for best Asset Pricing paper at the 2024 Brazilian Finance Society Meeting
 
