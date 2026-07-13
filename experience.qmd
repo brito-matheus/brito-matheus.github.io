@@ -14,6 +14,6 @@ title: "Experience"
 
 **Teacher Assistant** — São Paulo School of Economics - FGV\
 *2022–2025*\
-- PhD Level: Empirical Asset Pricing\
+- PhD Level: Empirical Asset Pricing, Causal Methods in Finance\
 - Master Level: Computational Methods in Finance, Investments, Risk Asset Management\
 - Under-graduation Level: Stochastic Calculus, Empirical Macroeconometrics
