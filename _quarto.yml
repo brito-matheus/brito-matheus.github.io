@@ -25,5 +25,6 @@ format:
     css: styles.css
     toc: false
     include-in-header: sidebar-inject.html
+    link-external-newwindow: true
 
 editor: visual

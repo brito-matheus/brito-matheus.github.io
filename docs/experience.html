@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', function () {
     <div class="sidebar-inner">
       <img src="img/fig_nova.png" alt="Matheus C. Brito" class="sidebar-photo">
       <h2 class="sidebar-name">Matheus C. Brito</h2>
-      <p class="sidebar-role">PhD Candidate</p>
+      <p class="sidebar-role">PhD in Economics</p>
       <p class="sidebar-institution">São Paulo School of Economics<br>FGV-EESP</p>
       <hr class="sidebar-divider">
       <div class="sidebar-links">
@@ -264,6 +264,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

@@ -4,7 +4,7 @@ toc: false
 
 ## Welcome
 
-Hello! I am a PhD Candidate at the São Paulo School of Economics (FGV-EESP). My research focuses on empirical asset pricing and behavioral finance, with a particular emphasis on retail investors. Prior to my PhD, I earned a Master's degree from FGV-EESP and a Bachelor's degree in Economics from the University of São Paulo - Ribeirão Preto (FEARP).
+Hello! I hold a PhD in Economics from the São Paulo School of Economics (FGV-EESP). My research focuses on empirical asset pricing and behavioral finance, with a particular emphasis on retail investors. Prior to my PhD, I earned a Master's degree from FGV-EESP and a Bachelor's degree in Economics from the University of São Paulo - Ribeirão Preto (FEARP).
 
 **Awards**
 

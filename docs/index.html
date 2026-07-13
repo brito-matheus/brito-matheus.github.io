@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', function () {
     <div class="sidebar-inner">
       <img src="img/fig_nova.png" alt="Matheus C. Brito" class="sidebar-photo">
       <h2 class="sidebar-name">Matheus C. Brito</h2>
-      <p class="sidebar-role">PhD Candidate</p>
+      <p class="sidebar-role">PhD in Economics</p>
       <p class="sidebar-institution">São Paulo School of Economics<br>FGV-EESP</p>
       <hr class="sidebar-divider">
       <div class="sidebar-links">
@@ -139,7 +139,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 <section id="welcome" class="level2">
 <h2 class="anchored" data-anchor-id="welcome">Welcome</h2>
-<p>Hello! I am a PhD Candidate at the São Paulo School of Economics (FGV-EESP). My research focuses on empirical asset pricing and behavioral finance, with a particular emphasis on retail investors. Prior to my PhD, I earned a Master’s degree from FGV-EESP and a Bachelor’s degree in Economics from the University of São Paulo - Ribeirão Preto (FEARP).</p>
+<p>Hello! I hold a PhD in Economics from the São Paulo School of Economics (FGV-EESP). My research focuses on empirical asset pricing and behavioral finance, with a particular emphasis on retail investors. Prior to my PhD, I earned a Master’s degree from FGV-EESP and a Bachelor’s degree in Economics from the University of São Paulo - Ribeirão Preto (FEARP).</p>
 <p><strong>Awards</strong></p>
 <ul>
 <li>Best Paper in Finance Award - SBE (2024)</li>
@@ -248,6 +248,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

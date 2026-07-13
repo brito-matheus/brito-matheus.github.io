@@ -127,9 +127,13 @@
 /* ============================================
    PAPER TITLES
 ============================================ */
-.paper-title a {
+.paper-title {
   color: var(--accent-hover);
   font-weight: 600;
+}
+
+.paper-title a {
+  color: inherit;
   text-decoration: none;
 }
 
